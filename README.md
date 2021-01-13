@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# REACT-LightsOut
+## Try to make the entire board gold
+* Functional Components
+* UseState
+
+### Below is standard React ReadMe 
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
